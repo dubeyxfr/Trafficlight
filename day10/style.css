@@ -20,8 +20,8 @@
 }  */
 
 .section {
-    height: 30vh;
-    width: 60vh;
+    height: 100vh;
+    width: 100vh;
     background-color: black;
     justify-self: center;
     display: flex;
@@ -30,8 +30,8 @@
     gap: 20px;
 }
 .light {
-    height: 70px;
-    width: 70px;
+    height: 200px;
+    width: 200px;
     background-color: gray;
     position: relative;
     top: 35%;
